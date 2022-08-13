@@ -33,14 +33,10 @@ export default {
 <style scoped>
 nav {
   padding: 20px;
-  margin: 40px 20px;
   border-bottom: 1px solid #eee;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: white;
-  border-radius: 30px;
-  box-shadow: 3px 3px 3px 3px #999;
 }
 nav p {
   margin: 2px auto;
